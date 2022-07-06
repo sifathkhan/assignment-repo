@@ -1,0 +1,193 @@
+body{
+    font-family: 'Kanit', sans-serif;
+    margin: 0%;
+    
+}
+#top h1{
+    
+    font-size: 70px;
+    color: white;
+    
+    margin: 0%;
+    text-align: center;
+
+
+}
+#top p{
+    font-size: 20px;
+    color: aliceblue;
+    margin: 0;
+}
+#top{   
+display: flex;
+}
+.top-1{
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    font-size: 50px;
+    background-image: url(donate-today-main/images/donation13-01.jpeg);
+    padding-top: 10%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+}
+button{
+    background-image: linear-gradient(tomato,orange);
+    border: 0;
+    color: white;
+    box-shadow: 2px 2px 2px 2px rgba(255, 166, 0, 0.144);
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 1% 1% 1% 1%;  
+    margin-right: 1%; 
+}
+h2{
+    font-size: 500%;
+    text-align: center;
+    margin: 0%;
+    padding-top: 5%;
+}
+
+#mid-part{
+    color: black;
+    text-align: center;
+    margin: 0%;
+}
+ 
+#mn{
+    font-size: 30px;
+    font-weight: bolder;
+    display: flex;
+    width: 60%;
+    margin-left: 22%;
+    margin-top: 2%;
+    text-align: center;
+    color: black;
+}
+.amat{
+    width: 18%;
+    background-color: #FAFAFA;
+    border-radius: 15px;
+}
+#main-amat{
+    width: 18%;
+    background-color: #e5d0d0;
+    border: 4px solid #f55252;
+    border-radius: 15px;
+}
+.amat p{
+    color: #605e5e;
+}
+#main-amat p{
+    color: #cf5757;
+}
+
+#dn{
+    text-align: center;
+}
+#other{
+    text-align: center;
+    border: 0;
+    border-bottom: 2px solid rgba(81, 79, 79, 0.727);
+    margin: 3%;
+    box-shadow: 0px 1px 0px 0px rgb(45, 44, 44);
+    color: black;
+    width: 40%;
+    font-size: 20px;
+    padding: 1%;
+}
+#part-3{
+    display: flex;
+}
+#button-part{
+    margin-top: 2%;
+    margin-left: 43.5%;
+}
+#three-h{
+    font-size: 400%;
+    color: black;
+    
+    text-align: center;
+}
+#three-p{
+    color: black;
+    text-align: center;
+    margin: 1%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 20px;
+}
+.color{
+    color: black;
+}
+#clr-sec{
+    color: black;
+    display: flex;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 3%;    
+}
+.trd{
+    border-radius: 9px;
+    margin: 1%;
+    padding: 5%;
+    width: 27%;
+}
+#first{
+background-color: rgba(66, 158, 168, 0.102);
+}
+#second{
+    background-color: rgba(247, 81, 81, 0.1);
+}
+#third{
+    background-color: rgba(174, 174, 89, 0.102);
+}
+.fourth{
+    display: flex;
+    margin-left: 8%;
+}
+
+#dl{  
+    margin: 5%;
+    text-align: center;
+    font-size: 350%; 
+}
+#list{   
+    margin: 0;
+    font-size: 20px;
+    padding: 5%;
+    padding-top: 0;
+    margin-bottom: 10%;  
+}
+.dt{
+margin-left: 10%;
+}
+#dh{
+    padding: 3%;
+    margin: 0;
+    margin-left: 28%;
+}
+#right-image img{
+    width: 110%;
+    margin-left: 20%;
+}
+footer{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+    background-color: black;
+    color: #f55252;
+    font-family: Lucida Handwriting;
+}
+footer p{
+    color: rgb(250, 250, 250);
+    font-family: Candara;
+}
+#fifth{
+    text-align: center;   
+}
+#fifth h1{
+    font-size: 55px;
+    margin-top: 8%;
+}
